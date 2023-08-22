@@ -11,14 +11,12 @@ Joined Github **5** years ago.
 
 Since then I pushed **1100**+ commits, submitted **289**+ pull requests,  and contributed to **40**+  repositories.
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
-
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with Angular, <br /> Typescript, Javascript, HTML/CSS etc.
 - 🚀 &nbsp; I’m currently learning React, Data Structures.
 - 👨🏻‍💻 &nbsp; Some of my projects are available on [Github](https://github.com/nataliia-reshetnikova).
-- 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
+<!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).-->
 
 ### My Absolute Favorites:
 
