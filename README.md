@@ -11,8 +11,6 @@ Joined Github **5** years ago.
 
 Since then I pushed **1100**+ commits, submitted **289**+ pull requests,  and contributed to **40**+  repositories.
 
-<!-- [![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/) -->
-
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### Talking about Personal Stuffs:
