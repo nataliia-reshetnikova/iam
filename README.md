@@ -5,7 +5,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
-I'm a graduate in Software Engineering 🎓 from Heritage College, Canada and National Aviation University, Kyiv, Ukraine 🏛. I am passionate about making responsible, modern, and beautifully looking web apps. 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Front-end Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+I am Front-end Software Engineer passionate about making responsible, modern, and beautifully looking web apps. 💡 I'm a graduate in Software Engineering 🎓 from Heritage College, Canada and National Aviation University, Kyiv, Ukraine 🏛.  I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Front-end Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
 Joined Github **5** years ago.
 
@@ -19,7 +19,7 @@ Since then I pushed **1100**+ commits, submitted **289**+ pull requests,  and co
 
 - 🛠 &nbsp; I’m currently working with Angular, <br /> Typescript, Javascript, HTML/CSS etc.
 - 🚀 &nbsp; I’m currently learning React, Data Structures.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/nataliia-reshetnikova).
+- 👨🏻‍💻 &nbsp; Some of my projects are available on [Github](https://github.com/nataliia-reshetnikova).
 - 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
 
 ### My Absolute Favorites:
