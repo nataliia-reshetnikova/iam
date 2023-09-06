@@ -5,7 +5,7 @@
 
 ### Glad to see you here! &nbsp;
 
-I am Front-end Software Engineer passionate about making responsible, modern, and beautifully looking web apps. 💡 I'm a graduate in Software Engineering 🎓 from Heritage College, Canada and National Aviation University, Kyiv, Ukraine 🏛.  I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Front-end Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+I am Front-end Software Engineer passionate about making responsible, modern, and beautifully looking web apps. 💡 I'm a graduate in Software Engineering 🎓 from Heritage College (2020), and have Master's Degree in Software Engineering from Canada and National Aviation University, Kyiv, Ukraine 🏛 (2018).  I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Front-end Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
 Joined Github **5** years ago.
 
